@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AloGitHub", "AloGitHub\AloGitHub.csproj", "{AAC7E21E-F771-4DB9-BA16-1BF6C0265686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC7E21E-F771-4DB9-BA16-1BF6C0265686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC7E21E-F771-4DB9-BA16-1BF6C0265686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC7E21E-F771-4DB9-BA16-1BF6C0265686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC7E21E-F771-4DB9-BA16-1BF6C0265686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B52BDA-0160-4BDD-9882-0C5F1F4C454A}
+	EndGlobalSection
+EndGlobal
